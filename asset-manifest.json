@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/flight-booking-app/static/css/main.614172bf.css",
-    "main.js": "/flight-booking-app/static/js/main.7a6351bd.js",
+    "main.js": "/flight-booking-app/static/js/main.166e58f1.js",
     "static/media/discover.jpg": "/flight-booking-app/static/media/discover.f5d6684b737e48c40bea.jpg",
     "static/media/berlin.jpg": "/flight-booking-app/static/media/berlin.b065d93438331fe35b4c.jpg",
     "static/media/room5.jpg": "/flight-booking-app/static/media/room5.234a95265b5119d9fb06.jpg",
@@ -33,10 +33,10 @@
     "static/media/hotel-8.jpg": "/flight-booking-app/static/media/hotel-8.bec3e0653f9856a18da9.jpg",
     "index.html": "/flight-booking-app/index.html",
     "main.614172bf.css.map": "/flight-booking-app/static/css/main.614172bf.css.map",
-    "main.7a6351bd.js.map": "/flight-booking-app/static/js/main.7a6351bd.js.map"
+    "main.166e58f1.js.map": "/flight-booking-app/static/js/main.166e58f1.js.map"
   },
   "entrypoints": [
     "static/css/main.614172bf.css",
-    "static/js/main.7a6351bd.js"
+    "static/js/main.166e58f1.js"
   ]
 }
