@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/flight-booking-app/static/css/main.614172bf.css",
+    "main.js": "/flight-booking-app/static/js/main.7a6351bd.js",
+    "static/media/discover.jpg": "/flight-booking-app/static/media/discover.f5d6684b737e48c40bea.jpg",
+    "static/media/berlin.jpg": "/flight-booking-app/static/media/berlin.b065d93438331fe35b4c.jpg",
+    "static/media/room5.jpg": "/flight-booking-app/static/media/room5.234a95265b5119d9fb06.jpg",
+    "static/media/rome.jpg": "/flight-booking-app/static/media/rome.f4cfbf2c09485aeb9c19.jpg",
+    "static/media/vienna.jpg": "/flight-booking-app/static/media/vienna.e82562b024a5b6d801c0.jpg",
+    "static/media/room1.jpg": "/flight-booking-app/static/media/room1.49925b2c1bbed9f2b454.jpg",
+    "static/media/room6.jpg": "/flight-booking-app/static/media/room6.8f6559a77ca1314ef904.jpg",
+    "static/media/madrid.jpg": "/flight-booking-app/static/media/madrid.51c5ce17702b3dee7435.jpg",
+    "static/media/banner.jpg": "/flight-booking-app/static/media/banner.b9678ca7900c3978cb1e.jpg",
+    "static/media/room2.jpg": "/flight-booking-app/static/media/room2.aef1fc43f54de6130600.jpg",
+    "static/media/room3.jpg": "/flight-booking-app/static/media/room3.8c05fd0eb251624b9151.jpg",
+    "static/media/paris.jpg": "/flight-booking-app/static/media/paris.9b2e9ff75f9f457054f9.jpg",
+    "static/media/accommodation.jpg": "/flight-booking-app/static/media/accommodation.b0ef913c0cd70752988c.jpg",
+    "static/media/hotel-5.jpg": "/flight-booking-app/static/media/hotel-5.f1c2fca7be5063b84126.jpg",
+    "static/media/london.jpg": "/flight-booking-app/static/media/london.a0c1282f646d69f530e5.jpg",
+    "static/media/hotel-3.jpg": "/flight-booking-app/static/media/hotel-3.9395498dea2da78032ff.jpg",
+    "static/media/hotel-1.jpg": "/flight-booking-app/static/media/hotel-1.702ea757364038a7eb0e.jpg",
+    "static/media/room4.jpg": "/flight-booking-app/static/media/room4.a60416dd1d548273c2ab.jpg",
+    "static/media/transportation.jpg": "/flight-booking-app/static/media/transportation.716d0fa45df30cd33b29.jpg",
+    "static/media/hotel-2.jpg": "/flight-booking-app/static/media/hotel-2.d3e544ac48014cae05a2.jpg",
+    "static/media/hotel-6.jpg": "/flight-booking-app/static/media/hotel-6.2fb55ddf6fcc3a41fa12.jpg",
+    "static/media/hotel-7.jpeg": "/flight-booking-app/static/media/hotel-7.9cee0f7d44b87b314364.jpeg",
+    "static/media/hotel-4.jpg": "/flight-booking-app/static/media/hotel-4.3ccd1a8d7456a36ec9f4.jpg",
+    "static/media/hotel-10.jpg": "/flight-booking-app/static/media/hotel-10.d132d08feed63a8ab932.jpg",
+    "static/media/hotel-12.jfif": "/flight-booking-app/static/media/hotel-12.c561e20be149dc173284.jfif",
+    "static/media/guidance.jpg": "/flight-booking-app/static/media/guidance.da270b6d5053fb050612.jpg",
+    "static/media/hotel-11.jpg": "/flight-booking-app/static/media/hotel-11.325f81234f7c9eb0bd61.jpg",
+    "static/media/hotel-9.jpg": "/flight-booking-app/static/media/hotel-9.cc4da106c7d9acc5ca36.jpg",
+    "static/media/hotel-8.jpg": "/flight-booking-app/static/media/hotel-8.bec3e0653f9856a18da9.jpg",
+    "index.html": "/flight-booking-app/index.html",
+    "main.614172bf.css.map": "/flight-booking-app/static/css/main.614172bf.css.map",
+    "main.7a6351bd.js.map": "/flight-booking-app/static/js/main.7a6351bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.614172bf.css",
+    "static/js/main.7a6351bd.js"
+  ]
+}
